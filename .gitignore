@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-
 .*
 !.gitignore
 SynonymsUnitTests.xcodeproj
-a.txt
-=======
-.*
-!.gitignore
-SynonymsUnitTests.xcodeproj
->>>>>>> b53b99a (Initial Commit)
